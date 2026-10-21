@@ -15,7 +15,9 @@ No account with us. No ads. No tracking. Your server, your data.
 
 ## Get it
 
-Coming soon to Google Play.
+<a href="https://play.google.com/store/apps/details?id=io.github.retr0soft.selfserved">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
+</a>
 
 ## Report a problem
 
